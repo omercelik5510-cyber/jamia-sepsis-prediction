@@ -14,6 +14,12 @@ The notebook includes model development, external transportability assessment, c
 
 This study uses the PhysioNet/Computing in Cardiology Challenge 2019 sepsis dataset. Raw patient-level data are not redistributed in this repository.
 
+## Software environment
+
+Analyses were performed using Python 3.14.7.
+
+Key package versions are listed in `requirements.txt`.
+
 ## License
 
 Apache License 2.0
