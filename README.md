@@ -1,4 +1,4 @@
-# JAMIA Sepsis Transportability
+# JMS Sepsis Transportability
 
 Reproducible source code, analysis workflow, figures, and tables for the sepsis model transportability study.
 
